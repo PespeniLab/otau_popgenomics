@@ -10,8 +10,7 @@ RNA was extracted and sequenced for each of three individuals from each of four 
 
 ## data availability
 
-Sequence data: raw reads are available at NCBI SRA: BioProject ID: TBD
-
+Sequence data: Raw reads (1.35 billion 2 x 100 bp paired-end Illumina) will be available at NCBI SRA: BioProject ID: TBD
 
 ## programs used
 
