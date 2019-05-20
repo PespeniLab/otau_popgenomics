@@ -1,6 +1,3 @@
-# otau_popgenomics
-Scripts associated with Onthophagus taurus population genomics study
-
 # Onthophagus taurus population transcriptomics study
 
 This repository holds scripts for the data processing and analysis for the Onthophagus taurus three population common garden transcriptomics experiment. 
