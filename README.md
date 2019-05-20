@@ -1,15 +1,15 @@
-# Onthophagus taurus population transcriptomics study
+# *Onthophagus taurus* population transcriptomics study
 
-This repository holds scripts for the data processing and analysis for the Onthophagus taurus three population common garden transcriptomics experiment. 
+This repository holds scripts for the data processing and analysis for a common garden transcriptomics experiment of three *Onthophagus taurus* populations. 
 
 One native (Italy, IT) and two exotic (Western Australia, WA and Eastern US, North Carolina, NC) were kept in common garden conditions for three generations. 
 RNA was extracted and sequenced for each of three individuals from each of four developmental stages and both sexes, resulting in 72 individuals sampled.
 
-## data availability
+## Data availability
 
 Sequence data: Raw reads (1.35 billion 2 x 100 bp paired-end Illumina) will be available at NCBI SRA: BioProject ID: TBD
 
-## programs used
+## Programs used
 
 - Trimmomatic v. 0.33
 - R version 3.3.2
