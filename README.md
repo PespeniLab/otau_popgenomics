@@ -29,3 +29,6 @@ Program versions can also be found in the scripts and/or in the associated manus
 
 	- `DGEforPopxSex_eachStage.R`
 		- Differential gene expression analysis
+
+	- `PBS_calcs_plots_final.R`
+		- Calculations and plots for Population branch statistics, Fig. S3
